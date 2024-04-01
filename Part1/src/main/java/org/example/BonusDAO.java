@@ -21,18 +21,18 @@ public class BonusDAO extends DAO<Bonus> {
     @Override
     public boolean create(Bonus object) {
         // Implementation to create a new bonus record
-        return false; // Replace with actual implementation
+        return false; 
     }
 
     @Override
     public boolean update(Bonus object) {
         // Implementation to update an existing bonus record
-        return false; // Replace with actual implementation
+        return false; 
     }
 
     @Override
     public boolean delete(Bonus object) {
         // Implementation to delete a bonus record
-        return false; // Replace with actual implementation
+        return false; 
     }
 }
